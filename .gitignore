@@ -1,0 +1,8 @@
+# Visual Studio Code Files
+.vscode/
+# Modules
+look_at_bot/node_modules/
+pathfind_bot/node_modules/
+kill_aura_bot/node_modules/
+pvp_bot/node_modules/
+mine_bot/node_modules/
