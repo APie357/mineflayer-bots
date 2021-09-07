@@ -1,0 +1,16 @@
+{
+  "name": "kill_aura_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-data": "^2.93.0",
+    "mineflayer": "^3.11.0",
+    "mineflayer-pathfinder": "^1.7.0"
+  }
+}
